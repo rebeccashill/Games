@@ -1,4 +1,4 @@
-Repo for Assignment 7 of Foundations of Programming- KMP, Fall 2019.
+Repo for Assignment 7.
 
 
 # Assignment 7
